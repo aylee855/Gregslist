@@ -1,2 +1,0 @@
-# Gregslist
-CSS layout exercise
